@@ -40,7 +40,7 @@
   </dependencies>
 
   <build>
-    <finalName>PodstawySerwerów</finalName>
+    <finalName>PodstawySerwerow</finalName>
 
   </build>
 </project>
